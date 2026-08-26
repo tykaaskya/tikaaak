@@ -1,0 +1,1 @@
+tikaSmonkey landing page. Temporary monkey artwork uses emoji so the project is safe to publish. For production, replace with your own/licensed illustrations rather than directly hotlinking Pinterest images. Audio sources include Creative Commons/Wikimedia and external examples; check attribution/license before commercial use.
